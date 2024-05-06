@@ -17,12 +17,12 @@
         "TELEGRAM_APP_HASH": {
             "description": "Fill Api Hash from telegram.prg",
             "required": true,
-            "value": ""
+            "value": "b86192c6db595de8e8863b43648c55da"
         }
         "TELEGRAM_APP_ID": {
             "description": "Fill Api iD from telegram.prg",
             "required": true,
-            "value": ""
+            "value": "9438917"
         }
 
     }
